@@ -7,3 +7,4 @@ base:
     - memcached
     - redis
     - haproxy
+    - php
