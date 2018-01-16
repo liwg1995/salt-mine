@@ -4,3 +4,5 @@ base:
     - sysctl
     - common
     - users
+    - memcached
+    - redis
