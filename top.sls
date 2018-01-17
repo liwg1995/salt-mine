@@ -8,3 +8,4 @@ base:
     - redis
     - haproxy
     - php
+    - pip
