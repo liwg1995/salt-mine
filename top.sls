@@ -12,3 +12,4 @@ base:
     - openvpn
     - fail2ban
     - cmatrix
+    - supervisor
