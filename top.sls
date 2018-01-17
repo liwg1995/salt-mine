@@ -9,3 +9,4 @@ base:
     - haproxy
     - php
     - pip
+    - openvpn
