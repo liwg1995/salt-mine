@@ -10,3 +10,4 @@ base:
     - php
     - pip
     - openvpn
+    - fail2ban
