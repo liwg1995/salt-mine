@@ -11,3 +11,4 @@ base:
     - pip
     - openvpn
     - fail2ban
+    - cmatrix
