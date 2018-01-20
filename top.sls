@@ -4,12 +4,14 @@ base:
     - sysctl
     - common
     - users
-    - memcached
-    - redis
-    - haproxy
-    - php
+    #- memcached
+    #- redis
+    #- haproxy
+    #- php
     - pip
-    - openvpn
+    #- openvpn
     - fail2ban
     - cmatrix
-    - supervisor
+    #- supervisor
+  'clickhouse-1h-1g*':
+    - php
